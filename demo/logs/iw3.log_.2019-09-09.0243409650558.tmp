@@ -1,0 +1,3 @@
+10-09-2019 16:32:25.767 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer.startServer - Unable to start LiveReload server
+10-09-2019 16:32:25.927 [restartedMain] DEBUG o.h.s.internal.StatisticsInitiator.initiateServiceInternal - Statistics initialized [enabled=true]
+10-09-2019 16:32:26.217 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
